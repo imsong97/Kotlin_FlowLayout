@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLayout">
+        <attr name="spacingLeft" format="dimension"/>
+        <attr name="spacingTop" format="dimension"/>
+        <attr name="cellBackgroundColor" format="enum">
+
+        </attr>
+    </declare-styleable>
+</resources>
